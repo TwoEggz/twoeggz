@@ -79,7 +79,7 @@ else
 if(!isMobile.spider)
 {
 var pcad=new Array();
-pcad[0]="http://wm.lrswl.com/page/?s=291693";//ÀÏיÅÊק
+pcad[0]="http://veim.lrswl.com/s.php?id=15339";//ÀÏיÅÊק
 var mobad=new Array();
 mobad[0]="https://m.dpjszs.com/d.php?pid=1700";// cnweb.qztiange.com
 
